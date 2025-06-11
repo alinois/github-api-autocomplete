@@ -91,7 +91,7 @@ function addRepo(repo) {
   `;
 
   const removeBtn = document.createElement('button');
-  removeBtn.textContent = 'Удалить';
+  removeBtn.textContent = 'X';
   removeBtn.style.background = '#ff4d4f';
   removeBtn.style.color = 'white';
   removeBtn.style.border = 'none';
