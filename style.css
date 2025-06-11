@@ -41,6 +41,7 @@
     width: 420px;
     max-height: 200px;
     z-index: 1000;
+    overflow-y: scroll;
 }
 
 .repo-item {
